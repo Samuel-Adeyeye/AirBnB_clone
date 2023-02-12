@@ -8,6 +8,8 @@ After 4 months, you will have a complete web application composed by:
     A website (the front-end) that shows the final product to everybody: static and dynamic
     A database or files that store data (data = objects)
     An API that provides a communication interface between the front-end and your data (retrieve, create, delete, update them)
+
+REQUIREMENTS
 Allowed editors: vi, vim, emacs
 All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
 All your files should end with a new line
